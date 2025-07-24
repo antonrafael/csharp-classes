@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "csharpclasses": {
+      "commandName": "Project",
+      "commandLineArgs": "25 2500"
+    }
+  }
+}

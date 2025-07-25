@@ -1,6 +1,6 @@
 ﻿public class Program
 {
-	public static void Main(string[] args)
+	public static void Aula1(string[] args)
 	{
 		Console.WriteLine("---------------- ARGS ----------------");
 

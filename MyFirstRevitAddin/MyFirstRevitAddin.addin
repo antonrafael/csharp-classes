@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>MyFirstRevitAddin</Name>
+		<FullClassName>MyFirstRevitAddin.FirstCommand</FullClassName>
+		<Text>Lab1PlaceGroup</Text>
+		<Description>Places the Group at Particular Point</Description>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<Assembly>.\MyFirstRevitAddin\MyFirstRevitAddin.dll</Assembly>
+		<AddInId>502fe283-2648-4e98-adf8-5e3047f9dc34</AddInId>
+		<VendorId>Murilo</VendorId>
+		<VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>
